@@ -117,8 +117,8 @@ class StateProvider extends React.Component {
 
   isRemotePagination = () => {
     const e = {};
-    this.remoteEmitter.emit('isRemotePagination', e);
-    return e.result;
+    this.remoteEmitter?.emit('isRemotePagination', e);
+    return e.result ?? false;
   };
 
   handleDataSizeChange(newDataSize) {
