@@ -1,5 +1,5 @@
 {
-  "name": "@eduardocp5/react-bootstrap-table2-paginator",
+  "name": "@eduardocp/react-bootstrap-table2-paginator",
   "version": "2.1.2",
   "description": "it's the pagination addon for react-bootstrap-table2",
   "main": "./lib/index.js",
