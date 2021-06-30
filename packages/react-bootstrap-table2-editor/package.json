@@ -1,5 +1,5 @@
 {
-  "name": "react-bootstrap-table2-editor",
+  "name": "@eduardocp/react-bootstrap-table2-editor",
   "version": "1.4.0",
   "description": "it's the editor addon for react-bootstrap-table2",
   "main": "./lib/index.js",
@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-bootstrap-table/react-bootstrap-table2.git"
+    "url": "git+https://github.com/eduardocp/react-bootstrap-table2.git"
   },
   "keywords": [
     "react",
@@ -37,6 +37,11 @@
       "name": "Chun-MingChen",
       "email": "nick830314@gmail.com",
       "url": "https://github.com/Chun-MingChen"
+    },
+    {
+      "name": "Eduardo Carisio",
+      "email": "eduardo_carisio@hotmail.com",
+      "url": "https://github.com/eduardocp"
     }
   ],
   "peerDependencies": {
